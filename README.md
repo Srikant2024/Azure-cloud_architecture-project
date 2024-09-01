@@ -1,2 +1,2 @@
 # Azure-cloud_architecture-project
-Azure-cloud_architecture-project
+Designed and implemented a secure and scalable cloud architecture on Microsoft Azure for an application with separate virtual networks for the frontend and backend. Deployed and managed Virtual Machines (VMs) for hosting the frontend and database, connected via a jump server for secure updates. Configured a load balancer with public IP for the frontend, enabled autoscaling to manage traffic, and established a private connection through a VPN. Deployed the solution using Azure Hosting services, mapped the public IP to a domain, Validated the system by performing operations as a user and verifying results in the database.
